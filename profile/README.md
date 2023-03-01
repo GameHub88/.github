@@ -16,3 +16,8 @@ You can contribute to the UI in the <a href="https://github.com/GameHub88/GameHu
 <p align="center">
 If you want to help with backend development you can contribute to the <a href="https://github.com/GameHub88/Mirror">API Mirror</a> repository.
 </p>
+
+<h2 align="center">Built With</h2>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=md,html,javascript,css,nodejs,electron" />
+</p>
