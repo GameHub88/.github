@@ -1,5 +1,18 @@
-<img src="https://repository-images.githubusercontent.com/572700023/ccb4eea4-c136-4059-8982-51dc732f42c4" title="GameHub Profile Image"/>
+<p align="center">
+<kbd>
+<img src="https://raw.githubusercontent.com/GameHub88/.github/main/profile/logo.png" title="Gamehub's Logo" height="150px" />
+</kbd>
+</p>
 
-## GameHub
+<h1 align="center">Hello 👋</h1>
+<p align="center">
+Welcome to GameHub. A reveloutinary gaming site with an accounts system and API!
+</p>
 
-An easily-deployable, simultaneously-connected gaming site. Seamlessly integrated with a base API and an account system.
+<h2 align="center">How to contribute</h2>
+<p align="center">
+You can contribute to the UI in the <a href="https://github.com/GameHub88/GameHub">GameHub</a> repository.
+</p>
+<p align="center">
+If you want to help with backend development you can contribute to the <a href="https://github.com/GameHub88/Mirror">API Mirror</a> repository.
+</p>
