@@ -6,7 +6,7 @@
 
 <h1 align="center">Hello 👋</h1>
 <p align="center">
-Welcome to GameHub. A reveloutinary gaming site with an accounts system and API!
+Welcome to GameHub. A revolutionary gaming site with an accounts system and API!
 </p>
 
 <h2 align="center">How to contribute</h2>
