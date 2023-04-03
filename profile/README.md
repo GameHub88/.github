@@ -7,6 +7,8 @@
 <h1 align="center">Hello 👋</h1>
 <p align="center">
 Welcome to GameHub. A revolutionary gaming site with an accounts system and API!
+<br>
+Our servers are temporarily down form maintainence
 </p>
 
 <h2 align="center">How to contribute</h2>
@@ -19,5 +21,5 @@ If you want to help with backend development you can contribute to the <a href="
 
 <h2 align="center">Built With</h2>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=md,html,javascript,css,nodejs,electron" />
+<img src="https://skillicons.dev/icons?i=md,html,javascript,css,nodejs,electron,github" />
 </p>
