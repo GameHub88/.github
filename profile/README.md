@@ -8,7 +8,7 @@
 <p align="center">
 Welcome to GameHub. A revolutionary gaming site with an accounts system and API!
 <br>
-Our servers are temporarily down form maintainence
+Our servers are temporarily down for maintainence
 </p>
 
 <h2 align="center">How to contribute</h2>
