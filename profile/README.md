@@ -1,3 +1,7 @@
+> ### Notice
+> This project is not being maintained as of 6/22/23. The servers are not being maintained and the site will remain down for now. We plan to restart development or make a new site around september of 2023
+
+<br>
 <p align="center">
 <kbd>
 <img src="https://raw.githubusercontent.com/GameHub88/.github/main/profile/logo.png" title="Gamehub's Logo" height="150px" />
