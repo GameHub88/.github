@@ -1,5 +1,5 @@
 > ### Notice
-> This project is not being maintained as of 6/22/23. The servers are not being maintained and the site will remain down for now. We plan to restart development or make a new site around september of 2023
+> This project has been moved to the [EmberNetwork](https://github.com/EmberNetwork) organization. You can view the repo [here](https://github.com/EmberNetwork/GameHub)
 
 <br>
 <p align="center">
